@@ -1,5 +1,4 @@
 # customer_churn_prediction
-# Customer Churn Prediction
 
 ## 📌 Project Overview
 
@@ -23,7 +22,7 @@ This project predicts whether a telecom customer will churn based on historical 
 ## 📊 Dataset
 
 * **Name:** Telco Customer Churn Dataset
-* **Source:** IBM Sample Dataset (public)
+* **Source:** kaggle (public dataset)
 * **File:** `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 
 The dataset includes customer demographics, account information, services used, and churn labels.
