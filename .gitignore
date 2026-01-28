@@ -1,0 +1,6 @@
+# pytho cache
+__pycache__/
+#virtual environment
+venv/
+#backupfolder
+backup_working_version/
